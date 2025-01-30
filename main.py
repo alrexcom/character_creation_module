@@ -1,3 +1,7 @@
+"""
+этот код юез использования классов
+"""
+
 from random import randint
 # Из модуля start_game_banner, который расположен в папке graphic_arts,
 # импортируем функцию run_screensaver().
